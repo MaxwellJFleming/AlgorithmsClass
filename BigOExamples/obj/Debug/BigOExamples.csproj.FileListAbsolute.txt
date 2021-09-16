@@ -1,0 +1,7 @@
+C:\Users\eldri\Desktop\GitHub\AlgorithmsClass\BigOExamples\bin\Debug\BigOExamples.exe.config
+C:\Users\eldri\Desktop\GitHub\AlgorithmsClass\BigOExamples\bin\Debug\BigOExamples.exe
+C:\Users\eldri\Desktop\GitHub\AlgorithmsClass\BigOExamples\bin\Debug\BigOExamples.pdb
+C:\Users\eldri\Desktop\GitHub\AlgorithmsClass\BigOExamples\obj\Debug\BigOExamples.csprojAssemblyReference.cache
+C:\Users\eldri\Desktop\GitHub\AlgorithmsClass\BigOExamples\obj\Debug\BigOExamples.csproj.CoreCompileInputs.cache
+C:\Users\eldri\Desktop\GitHub\AlgorithmsClass\BigOExamples\obj\Debug\BigOExamples.exe
+C:\Users\eldri\Desktop\GitHub\AlgorithmsClass\BigOExamples\obj\Debug\BigOExamples.pdb
