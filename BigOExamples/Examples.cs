@@ -34,7 +34,7 @@ namespace BigOExamples
                 {
                     if (n[i] == target && n[j] == target2)
                     {
-                        return Math.Abs(i - j); //This method could return after only one loop, but its worst-case scenario is still quadratic.
+                        return Math.Abs(i - j); //This could return after only one loop, but its worst-case scenario is still quadratic.
                     }
                 }
             }
